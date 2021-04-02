@@ -1,4 +1,5 @@
-# TMDb_movie_data
+# IMDb_movie_data
+ Analysis of IMDB movie Data 
 
 # The Data
 
@@ -11,9 +12,8 @@ The final two columns ending with “_adj” show the budget and revenue of the 
 You will need an installation of Python, plus the following libraries:
 1. pandas
 2. NumPy
-3. requests
-4. tweepy
-5. json
+4. Matplotlib
+5. Seabor
 * Jupyter Notebook
 
 ## Summary:
